@@ -10,7 +10,7 @@
   type="docs"
   text="Bilibili"
   icon="fa-brands fa-bilibili"
-  link="https://space.bilibili.com/475402455"
+  link="https://space.bilibili.com/3546571872405696?spm_id_from=333.337.0.0"
 %}
 {%
   include button.html
